@@ -4,7 +4,7 @@
  * binary_tree_delete - Function to delete a binary tree
  *
  * @tree: pointer to node/tree to delete
- * 
+ *
  * Return: void
  */
 
